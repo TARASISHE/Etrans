@@ -1,0 +1,1612 @@
+@media (min-width: 1441px) {
+  .contacts-details #map {
+    max-width: 800px;
+    max-height: 430px;
+  }
+  .staff .row .long::before, .staff .row .long::after, .staff .row .short::after, .staff .row .short::before {
+    width: 150px;
+  }
+  .site-footer .logo {
+    margin-right: 25px;
+  }
+  .owner-card {
+    max-width: 560px;
+    max-height: 560px;
+  }
+  .staff-section .team-slider .member {
+    width: 258px !important;
+    height: 258px !important;
+    margin: 0 30px;
+  }
+  .top-info {
+    margin: auto;
+  }
+  .transportation-ways .way {
+    max-height: 340px;
+  }
+  .clients-logo {
+    max-width: 1280px;
+    margin: auto !important;
+  }
+  .site-footer .container {
+    margin: auto !important;
+  }
+  .transport .circle {
+    top: -170px !important;
+  }
+}
+@media (min-width: 1040px) {
+  .owner-card:hover .front {
+    transform: rotateY(180deg);
+  }
+  .owner-card:hover .back {
+    transform: rotateY(360deg);
+  }
+}
+@media (max-width: 1440px) {
+  .blog-info .text-block h1 .back-text {
+    font-size: 12vw;
+  }
+  .page-29 header, .page-211 header {
+    margin-top: 0px;
+  }
+  .info-section p, .info-section ul li, .info-section ol li {
+    font-size: 25px;
+  }
+  .info-section h2 {
+    font-size: 35px;
+  }
+  .info-section h2::before {
+    top: 20px;
+  }
+  .info-section h3 {
+    font-size: 30px;
+  }
+  .cases-info-section .text-block {
+    width: 70%;
+    margin-top: 450px;
+  }
+  .contact-form .btn-row label {
+    width: 50%;
+  }
+  .contatcs-info-section .text-block {
+    margin-top: 470px;
+    margin-left: auto;
+    width: 70%;
+  }
+  .how-we-work-slider .slides-btn .btn {
+    font-size: 25px;
+  }
+  .header-track {
+    width: 60%;
+    min-width: 500px;
+  }
+  .header-text {
+    margin-top: 30px;
+  }
+  .header-text p {
+    font-size: 20px;
+  }
+  .header-text h1 {
+    font-size: 55px;
+  }
+  .header-text h3 {
+    font-size: 18px;
+  }
+  .header-text button {
+    font-size: 20px;
+    width: 60%;
+    height: 65px;
+    min-width: 300px;
+  }
+  .header-text button img {
+    width: 10%;
+    max-width: 100%;
+  }
+  .services-links .tax-group .row .col h2 {
+    font-size: 24px;
+  }
+  .services-links .tax-group .row .col ul li a {
+    font-size: 20px;
+  }
+  .services-info-section .text-block {
+    width: 45%;
+  }
+  .services-info-section .back-text {
+    font-size: 10vw;
+    top: -60px;
+  }
+  .case-example-section .case-example {
+    margin-top: 250px;
+  }
+  .case-example-section .case-example .col-right h2 {
+    margin-bottom: 10px;
+  }
+  .team-slider .back-text {
+    font-size: 11vw;
+  }
+  main .about-info-section .back-text {
+    font-size: 12vw;
+    top: -30px !important;
+  }
+  .staff .back-text {
+    font-size: 9vw;
+    left: -1vw;
+  }
+  .posts-section .container .post .post-image .post-wrapper h1 {
+    margin-top: 30%;
+  }
+  .get-price {
+    display: none;
+  }
+  header nav {
+    width: 60%;
+  }
+  .main-form-section .back-text {
+    font-size: 10.5vw;
+  }
+  .info-section h2::before {
+    left: -5vw !important;
+  }
+  .transport .circle h1 {
+    font-size: 60px !important;
+  }
+  .transport:nth-child(-n+3) .circle img {
+    width: 60%;
+  }
+  .transport:nth-last-of-type(-n+3) .circle img {
+    width: 80%;
+  }
+}
+@media (max-width: 1280px) {
+  header .logo .svg {
+    width: 100px;
+  }
+  .mob-phone-toggle {
+    order: 3;
+    display: block;
+  }
+  .adress .wrapper a {
+    font-size: 24px;
+  }
+  .mob-nav #tax-item-8 li a, .mob-nav #tax-item-77 li a {
+    font-size: 16px !important;
+  }
+  header .contact-phone-numbers {
+    display: none;
+  }
+  .menu-toggle-item-midd::after {
+    content: "\f0dd";
+    font-family: "FontAwesome";
+    color: #5C5C5C;
+    font-size: 20px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    position: absolute;
+    top: 5px;
+    right: 100px;
+  }
+  #menu-item-20 {
+    position: relative;
+  }
+  #menu-item-20::after {
+    color: #5C5C5C;
+    right: 50px;
+  }
+  .menu-tax-list {
+    display: flex;
+    flex-direction: column;
+  }
+  .menu-tax-list li i {
+    right: 150px;
+  }
+  .menu-tax-list .menu-toggle-item-bottom {
+    margin: 0 0 0 20px;
+    padding: 10px 0;
+  }
+  .menu-tax-list .menu-toggle-item-bottom:first-child {
+    margin-top: 10px;
+  }
+  .menu-tax-list {
+    box-shadow: none;
+  }
+  .menu-tax-list li {
+    border: none !important;
+  }
+  .menu-tax-list li:hover i:first-child {
+    color: #F74C49;
+  }
+  .menu-tax-list li:hover::after {
+    color: #F74C49;
+  }
+  .menu-nav-list li {
+    border: 1px solid rgb(209, 206, 206);
+  }
+  .mob-nav ul li .menu-tax-list .menu-toggle-item-midd {
+    font-size: 20px;
+    margin: 0 0 0 20px;
+    padding: 12px 0;
+  }
+  .mob-nav ul li .menu-tax-list .menu-toggle-item-midd:first-child {
+    margin-top: 10px;
+  }
+  .menu-tax-list li .sub-menu li .sub-menu-terms li {
+    margin: 0;
+    padding: 10px 0;
+  }
+  .menu-tax-list li .sub-menu li .sub-menu-terms li:first-child {
+    margin-top: 10px !important;
+  }
+  .menu-tax-list {
+    padding: 0px;
+    overflow: hidden;
+    margin-left: 0;
+    visibility: visible;
+    opacity: 1;
+    position: relative;
+  }
+  .menu-tax-list ul {
+    overflow: scroll;
+  }
+  header .logo {
+    order: 2;
+    font-size: 50px;
+  }
+  .small-nav-bars {
+    display: block;
+  }
+  header nav {
+    display: none !important;
+  }
+  .about-info-section .text-block h1 {
+    font-size: 50px;
+    line-height: 55px;
+  }
+  .menu-tax-list li {
+    margin-right: 20px !important;
+    font-size: 18px;
+  }
+  .menu-tax-list li .sub-menu li {
+    font-size: 16px;
+  }
+  .menu-tax-list li .sub-menu li .sub-menu-terms li a {
+    font-size: 16px;
+  }
+  .contacts-details .col-left .adress .col h2 {
+    font-size: 30px;
+  }
+  .contacts-details .col-left .adress .col p {
+    font-size: 24px;
+  }
+  .contacts-details .col-left .phone-numbers .col a {
+    font-size: 24px;
+  }
+  .contacts-details .col-left .phone-numbers .col h2 {
+    font-size: 30px;
+  }
+  .contatcs-info-section .circle-header h1 {
+    margin-left: 14%;
+    font-size: 63px;
+    top: 40%;
+  }
+  .how-we-work-slider .slides-btn {
+    width: 100%;
+  }
+  .how-we-work-slider .slides-btn .btn-info {
+    display: block;
+  }
+  .how-we-work-slider .col-right {
+    display: none;
+  }
+  .how-we-work-slider .col-left {
+    width: 100%;
+  }
+  .staff .row .text-block h2 {
+    font-size: 28px;
+  }
+  .staff .row .long::before, .staff .row .long::after, .staff .row .short::after, .staff .row .short::before {
+    width: calc((89vw - 700px) / 2);
+  }
+  .staff .row .long {
+    height: 450px;
+  }
+  .owners .owner-card {
+    width: 35vw;
+    height: 43vw;
+  }
+  .owners .owner-card .wrapper .text-block p {
+    font-size: 15px;
+  }
+  .owners .owner-card .wrapper .links a {
+    font-size: 16px;
+  }
+  .about-info-section .circle-header h1 {
+    top: 50%;
+    font-size: 50px;
+    width: -moz-max-content;
+    width: max-content;
+  }
+  .circle-header {
+    min-width: 445px;
+    min-height: 445px;
+    width: 50vw;
+    height: 50vw;
+    left: -10vw;
+    top: -10vw;
+  }
+  .circle-header h1 {
+    font-size: 50px;
+    top: 40%;
+  }
+  .our-transport-section .back-text {
+    font-size: 10vw;
+    top: -100px;
+    left: -5vw;
+  }
+  .back-text {
+    font-size: 14vw;
+  }
+  .site-footer .container {
+    width: 100% !important;
+    padding: 0 30px;
+    max-width: 100%;
+    margin: 0;
+  }
+  .home-page .transportation-section .container .transportation-ways .way .wrapper h2 {
+    font-size: 20px;
+  }
+  .truck-modal .text-block h2 {
+    font-size: 30px !important;
+  }
+  .truck-modal .text-block button {
+    width: auto !important;
+    height: auto !important;
+    padding: 10px 20px;
+    font-size: 25px !important;
+  }
+  .trust-section .container {
+    flex-direction: column;
+  }
+  .trust-section .container .documents {
+    margin-top: 150px;
+  }
+}
+@media (max-width: 1040px) {
+  .home-page .why-we-section .advantages {
+    padding-top: 0px;
+  }
+  .home-page .why-we-section .text-block .wrapper {
+    position: initial;
+    width: 100%;
+    padding: 0 10%;
+  }
+  .care-section .img-wrapper {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+  }
+  .care-section .img-wrapper .white-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.5);
+    z-index: -1;
+  }
+  .cases-info-section .circle-header h1 {
+    line-height: normal;
+    margin-left: 45px;
+    font-size: 40px;
+  }
+  .services-info-section .text-block {
+    width: 50%;
+  }
+  .services-info-section .text-block h1 {
+    font-size: 50px;
+    line-height: normal;
+  }
+  .page-29 header nav, .page-211 header nav {
+    width: 75%;
+  }
+  .owner-card .front {
+    transform: rotateY(180deg) !important;
+  }
+  .owner-card .back {
+    transform: rotateY(360deg) !important;
+  }
+  .staff-section .team-slider .member {
+    width: 40vw !important;
+    height: 40vw !important;
+  }
+  .posts-section .container .post {
+    width: 30%;
+  }
+  .posts-section .container .post .post-image {
+    height: 25vw;
+  }
+  .posts-section .container .post .post-image .post-wrapper h1 {
+    margin-top: 15%;
+  }
+  .main-form-section .container .right-col h2 {
+    width: 100%;
+  }
+  .info-section h2 {
+    font-size: 35px;
+  }
+  .info-section h2::before {
+    height: 3px;
+    top: 25px;
+  }
+  .info-section p, .info-section li, .info-section a {
+    font-size: 20px !important;
+  }
+  .case-example-section .text-block .wrapper {
+    width: 90%;
+    top: -80px;
+  }
+  .case-example-section .text-block .wrapper h1 {
+    width: 100%;
+  }
+  .home-page .why-we-section .text-block .wrapper {
+    top: -40px;
+  }
+  .home-page .why-we-section .text-block .wrapper h1 {
+    width: -moz-max-content;
+    width: max-content;
+    padding: 0 20px;
+  }
+  .home-page .our-transport-section .transport-types {
+    margin-top: 30px;
+  }
+  .home-page .our-transport-section .transport-types .transport {
+    margin-top: 150px !important;
+    width: 48%;
+  }
+  .home-page .our-transport-section .transport-types .transport .circle {
+    top: -14vw;
+    width: 70%;
+    height: 28vw;
+  }
+  .home-page .our-transport-section .transport-types .transport .circle h1 {
+    font-size: 40px !important;
+  }
+  .home-page .our-transport-section .transport-types .transport .pounds p {
+    font-size: 25px;
+  }
+  .home-page .our-transport-section .transport-types .transport h2 {
+    font-size: 25px;
+  }
+  .home-page .our-transport-section .transport-types .transport h3 {
+    height: 50px;
+    font-size: 16px;
+  }
+  .home-page .our-transport-section .transport-types .transport button {
+    height: 100%;
+  }
+  .footer-form {
+    padding: 30px;
+    width: 90%;
+  }
+  .footer-form img {
+    width: 30%;
+  }
+  .footer-form .text-block {
+    width: 70%;
+  }
+  .footer-form .text-block h1 {
+    font-size: 40px;
+  }
+  .footer-form .text-block h2 {
+    font-size: 30px;
+  }
+  .footer-form .text-block h3 {
+    font-size: 25px;
+  }
+  .home-page .why-we-section .advantages {
+    margin-top: 150px;
+  }
+  .home-page .why-we-section .advantages .advantage {
+    width: 45%;
+  }
+  .home-page .why-we-section .advantages .advantage:nth-last-child(-n+4) {
+    margin-top: 100px;
+  }
+  .home-page .why-we-section .advantages h1 {
+    line-height: normal !important;
+    font-size: 40px;
+  }
+  .home-page .why-we-section .advantages h2 {
+    font-size: 25px;
+  }
+  .img-wrapper.care-wrapper {
+    height: 824px;
+  }
+  header nav {
+    width: 75%;
+  }
+}
+@media (max-width: 992px) {
+  .main-form-section.home-form.long-form {
+    height: 1700px;
+  }
+  .main-form-section.home-form.long-form .container .row .right-col {
+    margin-top: 100px;
+  }
+  .page-29 header {
+    box-shadow: 4px 4px 26px rgba(0, 0, 0, 0.2) !important;
+    background-color: white !important;
+  }
+  header {
+    box-shadow: 4px 4px 26px rgba(0, 0, 0, 0.2) !important;
+    background-color: white !important;
+  }
+  header .container {
+    height: 100px;
+  }
+  .mob-phone-toggle::before {
+    width: 25px;
+    height: 25px;
+  }
+  .small-nav-bars {
+    font-size: 30px;
+  }
+  header .container .logo {
+    margin: 0px;
+    height: 40px !important;
+    width: auto !important;
+  }
+  header .container .logo svg {
+    margin: 0px;
+    height: 40px;
+  }
+  .about-info-section .text-block {
+    width: 50%;
+  }
+  .single-news-preview h1 {
+    width: 100%;
+    font-size: 46px;
+    line-height: normal;
+  }
+  .single-news-preview .row {
+    margin-top: 100px;
+    flex-direction: column;
+  }
+  .single-news-preview .row img {
+    width: 70%;
+  }
+  .single-news-preview .row .text-block {
+    margin-left: 0px;
+    width: 100%;
+  }
+  .cases-info-section .text-block {
+    width: 100%;
+    margin-top: 400px !important;
+  }
+  .contacts-details .container {
+    flex-direction: column;
+  }
+  .contacts-details .container .col-left, .contacts-details .container .col-right {
+    width: 100%;
+  }
+  .contacts-details .container #map {
+    margin-top: 100px;
+    width: 100%;
+    height: 400px;
+  }
+  .contatcs-info-section .circle-header h1 {
+    font-size: 50px;
+  }
+  .circle-header h1 {
+    line-height: normal !important;
+  }
+  .header-track {
+    top: 50px;
+  }
+  .services-links .tax-group .row {
+    flex-direction: column;
+  }
+  .services-links .tax-group .row .col {
+    width: 100%;
+  }
+  .case-example-section .case-example {
+    margin-top: 200px;
+  }
+  .owners .owner-card {
+    margin-top: 50px !important;
+    width: 80%;
+    height: 80vw;
+    margin: auto;
+  }
+  .owners .owner-card .wrapper .text-block p {
+    font-size: 22px;
+  }
+  .staff-section .team-slider .member .wrapper {
+    visibility: visible;
+  }
+  .about-info-section .circle-header h1 {
+    margin-left: 30px;
+    width: -moz-max-content;
+    width: max-content;
+  }
+  .circle-header h1 {
+    margin-left: 30px;
+  }
+  .main-form-section {
+    height: 1400px;
+  }
+  .main-form-section .container .row {
+    flex-direction: column;
+  }
+  .main-form-section .container .row .left-col {
+    margin-right: auto;
+    width: 90%;
+  }
+  .main-form-section .container .row .left-col .modal {
+    padding: 20px 40px;
+    width: 100%;
+  }
+  .main-form-section .container .row .right-col {
+    width: 100%;
+    margin-top: 50px;
+  }
+  .site-footer .container .logo h1 {
+    font-size: 50px;
+  }
+  .site-footer .container h2 {
+    font-size: 20px;
+  }
+  .site-footer .container a {
+    font-size: 15px;
+  }
+  .site-footer .container p {
+    font-size: 15px;
+  }
+  .truck-modal {
+    flex-direction: column;
+  }
+  .truck-modal .text-block {
+    width: 100% !important;
+  }
+}
+@media (max-width: 890px) {
+  header .logo .svg {
+    height: 80px;
+    width: 120px;
+  }
+  .staff .row .staff-wrapper-circle {
+    min-height: 220px;
+    min-width: 220px;
+    width: 50%;
+    height: 30vw;
+  }
+  .about-info-section .text-block {
+    width: 55%;
+  }
+  .about-info-section .circle-header h1 {
+    font-size: 40px;
+  }
+  .zoom-close {
+    top: 120px;
+  }
+  .case-example-section .case-example .col-right {
+    margin-top: 100px;
+    height: auto;
+  }
+  header {
+    z-index: 99;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  .page-29 header, .page-211 header {
+    box-shadow: 4px 4px 26px rgba(0, 0, 0, 0.2);
+    background-color: white;
+  }
+  .top-info {
+    margin-top: 370px;
+  }
+  .header-section {
+    margin-top: 120px;
+  }
+  .staff .row {
+    flex-direction: column;
+  }
+  .staff .row hr {
+    display: none !important;
+  }
+  .staff .row .text-block {
+    margin: auto;
+    width: 70%;
+    margin-top: 50px !important;
+    align-items: center;
+  }
+  .staff .row .text-block p {
+    text-align: center;
+  }
+  .top-info .text-block {
+    margin-top: 470px;
+  }
+  .case-example-section .case-example {
+    margin-bottom: 100px;
+  }
+  .case-example-section .case-example .col-left .wrapper h1 {
+    font-size: 30px;
+  }
+  .home-page .care-section .container {
+    justify-content: flex-start;
+  }
+  .home-page .care-section .container .care-text-block {
+    margin-top: 200px;
+  }
+  .header-text {
+    width: 100%;
+  }
+}
+@media (max-width: 768px) {
+  .img-wrapper .white-back {
+    background-color: rgba(255, 255, 255, 0.8) !important;
+  }
+  .home-page .why-we-section .advantages {
+    margin-top: 100px;
+  }
+  .clients-logo img {
+    width: 30%;
+  }
+  .img-zoom-wrapper img {
+    height: 60vh;
+  }
+  .site-footer .container .services, .site-footer .container .pages {
+    padding: 0px;
+  }
+  .scroll-top {
+    right: 20px;
+  }
+  .scroll-top:hover {
+    box-shadow: none;
+    background-color: #F74C49;
+  }
+  .info-section h2 {
+    padding: 0px;
+  }
+  .pop-up-wrapper .popup-form {
+    top: 20%;
+    width: 70%;
+  }
+  .img-zoom-wrapper img {
+    top: 10%;
+  }
+  .contact-form {
+    margin-top: 100px;
+  }
+  .contacts-details {
+    margin-top: 70px;
+  }
+  main .cases-list .case-example {
+    margin-top: 50px !important;
+  }
+  .cases-cat {
+    margin-top: 70px;
+  }
+  .posts-section {
+    margin-top: 50px;
+  }
+  .info-section h2 {
+    font-size: 30px;
+  }
+  .info-section h3 {
+    font-size: 26px;
+  }
+  .tax-group {
+    margin-top: 0 !important;
+  }
+  .tax-group h1 {
+    margin-top: 50px;
+  }
+  .services-links {
+    margin-top: 100px;
+  }
+  .main .services-form {
+    margin-top: 50px !important;
+  }
+  .dill-section {
+    margin-top: 100px;
+  }
+  .case-example-section .case-example {
+    margin-top: 250px !important;
+  }
+  .staff {
+    margin-top: 200px;
+    margin-bottom: 100px;
+  }
+  .staff h1 {
+    margin-bottom: 30px;
+  }
+  .staff-section .team-slider #team-slider {
+    margin-top: 0px;
+  }
+  .staff-section .team-slider {
+    margin-top: 250px;
+  }
+  .footer-form {
+    margin-top: 100px !important;
+  }
+  .clients-section {
+    margin-top: 100px;
+  }
+  .clients-section h1 {
+    margin-bottom: 30px;
+  }
+  .main-form-section .container h1 {
+    margin-top: 100px;
+  }
+  .home-page .care-section .container .care-text-block {
+    margin-top: 50px;
+  }
+  .page-8 .clients-section {
+    margin-top: 20px;
+  }
+  .footer-form img {
+    margin-top: 20px;
+  }
+  .case-example-section .case-example .col-right {
+    margin-top: 50px;
+  }
+  .home-page .transportation-section {
+    margin-top: 370px;
+  }
+  .home-page .why-we-section {
+    margin-top: 100px;
+  }
+  .home-page .our-transport-section {
+    margin-top: 100px !important;
+  }
+  .header-track {
+    top: 50px;
+  }
+  .back-text {
+    display: none;
+  }
+  .case-example-section .case-example .col-right .text-block .road-map {
+    margin-top: 20px;
+  }
+  .cases-info-section .circle-header h1 {
+    margin-left: 15px;
+  }
+  .cases-cat a {
+    font-size: 18px;
+  }
+  .cases-info-section .text-block {
+    width: 100%;
+  }
+  .cases-info-section .text-block .under-text {
+    width: 100%;
+    margin: 0;
+  }
+  .cases-info-section .text-block .back-text {
+    top: -40px !important;
+    font-size: 25vw !important;
+  }
+  .case-example-section .case-example .col-left .wrapper h1 {
+    line-height: normal;
+  }
+  .contact-form h1 {
+    font-size: 40px;
+    line-height: normal;
+  }
+  .contact-form .input-row {
+    flex-direction: column;
+  }
+  .contact-form .btn-row {
+    flex-direction: column-reverse;
+    margin-top: 0px;
+  }
+  .contact-form .btn-row label {
+    width: 100%;
+    margin: 30px 0px;
+  }
+  .contatcs-info-section .text-block {
+    margin-top: 470px !important;
+  }
+  .contatcs-info-section .text-block h1 {
+    max-width: 100%;
+  }
+  .contatcs-info-section .text-block h1 .back-text {
+    font-size: 18vw;
+    left: 0px;
+    top: -30px !important;
+  }
+  .services-info-section .circle-header h1 {
+    top: 30%;
+  }
+  .main-form-section .container .right-col h2 {
+    line-height: normal;
+  }
+  .services-info-section .text-block h1 {
+    font-size: 50px;
+    line-height: normal;
+  }
+  .how-we-work-slider {
+    border-radius: 0px;
+  }
+  .how-we-work-slider img {
+    display: none;
+  }
+  .img-wrapper {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .img-wrapper .white-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.5);
+    z-index: -1;
+  }
+  .tax-group {
+    margin-top: 150px;
+  }
+  main .services-links .back-text {
+    font-size: 16vw;
+    top: -40px !important;
+  }
+  .services-info-section .back-text {
+    font-size: 18vw;
+    top: -50px !important;
+  }
+  .services-info-section .circle-header h1 {
+    top: 30%;
+  }
+  .case-example-section .case-example .col-left {
+    height: 60vw !important;
+  }
+  .case-example-section .case-example .col-left img {
+    height: 60vw;
+  }
+  .staff-section #case-slider .slick-arrow {
+    top: 400px !important;
+  }
+  .staff-section #case-slider .slick-prev {
+    left: 20px !important;
+  }
+  .staff-section #case-slider .slick-next {
+    right: 20px !important;
+  }
+  .dill-section .dill-row {
+    flex-direction: column;
+  }
+  .dill-section .col-left {
+    margin-top: 30px;
+  }
+  .dill-section .col-left .content-block {
+    margin-top: 40px;
+    flex-direction: column;
+  }
+  .dill-section .col-left .content-block h2 {
+    width: 100%;
+    text-align: center;
+  }
+  main .about-info-section .back-text {
+    font-size: 20vw;
+    top: -13vw !important;
+  }
+  .about-info-section .back-text {
+    top: 400px !important;
+    right: auto;
+    left: 0;
+  }
+  .case-example-section .text-block .wrapper {
+    width: 90%;
+    margin: auto;
+  }
+  .case-example-section .text-block .wrapper h1 {
+    font-size: 35px;
+    padding: 0px;
+    line-height: normal;
+  }
+  .case-example-section .text-block .wrapper h2 {
+    margin-left: 0px;
+  }
+  .owners .owner-card {
+    width: 90%;
+    height: 90vw;
+  }
+  .owners .owner-card .wrapper .text-block p {
+    font-size: 18px;
+  }
+  .top-info .text-block {
+    width: 90%;
+    margin: auto;
+    margin-top: 470px;
+  }
+  .top-info .text-block h1 {
+    padding: 0px;
+  }
+  .top-info .text-block h2 {
+    margin-left: 0px;
+  }
+  h1::before, h1::after {
+    display: none !important;
+  }
+  .posts-section .container .post {
+    width: 46%;
+  }
+  .posts-section .container .post .post-image {
+    height: 38vw;
+  }
+  .posts-section .container .post .post-image .post-wrapper h1 {
+    margin-top: 0px;
+  }
+  .why-we-section .back-text {
+    font-size: 14vw !important;
+  }
+  h1 {
+    background-color: transparent !important;
+  }
+  .trust-section .back-text {
+    top: -60px !important;
+  }
+  .care-section .back-text {
+    top: 140px !important;
+  }
+  .back-text {
+    top: -100px !important;
+  }
+  .trust-section .back-text {
+    left: 0px;
+  }
+  .site-footer .container {
+    flex-direction: column;
+  }
+  .footer-form {
+    flex-direction: column;
+  }
+  .footer-form .text-block {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .text-block hr {
+    visibility: hidden;
+  }
+  .case-example-section {
+    margin-top: 150px;
+  }
+  .case-example-section .case-example {
+    flex-direction: column;
+  }
+  .case-example-section .case-example .col-left, .case-example-section .case-example .col-right {
+    height: auto;
+    width: 100%;
+  }
+  .home-page .our-transport-section .transport-types .transport .type {
+    height: 100px;
+  }
+  .home-page .our-transport-section .transport-types .transport .circle {
+    top: -20vw;
+  }
+  .home-page .our-transport-section .transport-types .transport .circle h1 {
+    font-weight: 500;
+    color: black;
+    top: 90px;
+  }
+  .info-section h1 {
+    font-size: 34px !important;
+  }
+  .info-section h2 {
+    width: 100%;
+  }
+  .info-section h2::before {
+    display: none !important;
+  }
+  .home-page .our-transport-section .transport-types .transport {
+    padding: 20px 30px;
+  }
+  .home-page .our-transport-section .transport-types .transport button {
+    width: 100%;
+    font-size: 20px;
+  }
+  .home-page .our-transport-section .transport-types .transport button img {
+    display: none;
+  }
+  .home-page .our-transport-section {
+    margin-top: 150px;
+  }
+  .home-page .transportation-section .container .transportation-ways .way {
+    width: 48%;
+    height: 27vw;
+  }
+  .home-page .pick-up-car-section .line .truck-modal .truck {
+    width: 80%;
+  }
+  .home-page .trust-section .doc1, .home-page .trust-section .doc2 {
+    width: 50%;
+  }
+  .home-page .trust-section {
+    margin-top: 100px;
+  }
+  .home-page .care-section {
+    margin-top: 100px;
+  }
+  .main-form-section .container h1 {
+    width: 100%;
+  }
+  .case-example-section .text-block .wrapper h1 {
+    width: 100%;
+  }
+  .home-page .transportation-section .container .text-block {
+    width: 100%;
+  }
+  .home-page .why-we-section .text-block .wrapper {
+    top: -30px;
+    width: 100%;
+    left: 10%;
+    right: auto;
+  }
+  .home-page .why-we-section .text-block .wrapper h1 {
+    width: 100%;
+  }
+}
+@media (max-width: 576px) {
+  .header-text p {
+    margin-top: 20px;
+  }
+  .home-page .care-section .container .care-text-block {
+    margin-top: 0px;
+  }
+  .header-section {
+    height: calc(100vh - 120px);
+  }
+  .care-section {
+    margin-top: 0px !important;
+  }
+  .img-wrapper {
+    max-height: 100vh;
+    overflow: hidden;
+  }
+  .header-track {
+    max-width: 800px;
+    width: 800px;
+  }
+  .trust-section .container .documents {
+    width: 100%;
+  }
+  .menu-tax-list li {
+    margin-right: 20px !important;
+    font-size: 14px;
+  }
+  .menu-tax-list li .sub-menu li {
+    font-size: 12px;
+  }
+  .menu-tax-list li .sub-menu li .sub-menu-terms li a {
+    font-size: 12px;
+  }
+  .mob-nav #tax-item-8 li a, .mob-nav #tax-item-77 li a {
+    font-size: 12px !important;
+  }
+  .dill-section h1 {
+    font-size: 35px;
+  }
+  .staff h1 {
+    font-size: 35px;
+  }
+  main .about-info-section .text-block h1 {
+    font-size: 35px;
+    line-height: 40px;
+  }
+  main .about-info-section .text-block h2 {
+    font-size: 22px;
+  }
+  .main-form-section .container h1 {
+    font-size: 38px;
+  }
+  .home-page .our-transport-section h1 {
+    width: 100%;
+    font-size: 35px;
+  }
+  .home-page .why-we-section .text-block .wrapper h1 {
+    width: 100%;
+    padding: 0px;
+  }
+  .home-page .transportation-section .container .text-block h1 {
+    font-size: 35px;
+  }
+  .services-info-section .circle-header h1 {
+    top: 35%;
+  }
+  .transport-types .slick-dots {
+    bottom: -45px;
+  }
+  .service-single .header-text h1 {
+    font-size: 34px;
+  }
+  .site-footer .container .logo .svg {
+    width: 120px;
+  }
+  .hoftech {
+    text-align: start;
+    padding-left: 30px;
+  }
+  .scroll-top {
+    width: 70px;
+    height: 70px;
+  }
+  .scroll-top i {
+    font-size: 30px !important;
+  }
+  .staff .row .text-block {
+    width: 100%;
+  }
+  .main-form-section {
+    margin-top: 100px;
+  }
+  .home-page .our-transport-section .transport-types .transport {
+    box-shadow: none;
+    border: 1px solid #5C5C5C;
+  }
+  .header-text .red-text {
+    color: #f5302d;
+  }
+  .home-page .pick-up-car-section .line .truck-modal .text-block button {
+    height: 50px !important;
+    font-size: 17px !important;
+  }
+  .home-page .pick-up-car-section .line .truck-modal .text-block button img {
+    margin-top: 0px;
+  }
+  .truck-modal button img {
+    width: 40px !important;
+  }
+  button[data-id=get-price] {
+    animation: pulse-mob 2s ease-in-out infinite;
+  }
+  @keyframes pulse-mob {
+    0% {
+      box-shadow: 0 0 0 red;
+    }
+    50% {
+      box-shadow: 0 0 10px red;
+    }
+    100% {
+      box-shadow: 0 0 0px red;
+    }
+  }
+  .home-page .why-we-section .advantages .advantage:nth-last-child(-n+5) {
+    margin-top: 100px;
+  }
+  .home-page .transportation-section .container .transportation-ways .way .wrapper .circle {
+    bottom: -15px;
+    left: -15px;
+    width: 40px;
+    height: 40px;
+  }
+  .header-section .dots {
+    display: none;
+  }
+  .alert-success {
+    width: 350px;
+  }
+  .alert-success p {
+    font-size: 16px;
+  }
+  .alert-success .fas {
+    font-size: 30px;
+  }
+  .pop-up-wrapper .popup-form {
+    width: 90%;
+  }
+  .pop-up-wrapper .popup-form h1 {
+    font-size: 25px;
+  }
+  .pop-up-wrapper .popup-form h2 {
+    font-size: 16px;
+  }
+  .zoom-close {
+    right: 20px;
+  }
+  .services-links .tax-group .row .col h2 {
+    font-size: 23px;
+  }
+  .dill-row .img-zoom img {
+    height: 500px;
+  }
+  .case-example-section .case-example .col-right .text-block .road-map {
+    margin-top: 10px;
+  }
+  h1 {
+    font-size: 43px;
+    line-height: normal;
+  }
+  h2 {
+    font-size: 26px;
+    line-height: normal;
+  }
+  .home-page .trust-section .documents .doc1 img, .home-page .trust-section .documents .doc2 img {
+    height: 60vw;
+  }
+  .mob-nav ul li .menu-tax-list .menu-toggle-item-midd {
+    font-size: 15px;
+  }
+  .menu-tax-list ul li a {
+    font-size: 12px !important;
+  }
+  #menu-item-20::after {
+    right: 10px;
+  }
+  .menu-toggle-item-midd::after {
+    right: 33px;
+  }
+  .menu-tax-list li i {
+    right: 85px;
+  }
+  .single-news-preview .row {
+    margin-top: 50px;
+  }
+  .single-news-preview .row img {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+  .cases-info-section .circle-header h1 {
+    margin-left: -15px;
+    font-size: 35px;
+  }
+  .cases-cat .container {
+    flex-direction: column;
+  }
+  .cases-info-section .text-block h1 {
+    font-size: 42px;
+  }
+  .cases-info-section .text-block .under-text {
+    font-size: 42px;
+  }
+  .cases-info-section .text-block h2 {
+    font-size: 25px;
+  }
+  .contatcs-info-section .circle-header h1 {
+    margin-left: -15px;
+    font-size: 45px;
+  }
+  .contatcs-info-section .text-block {
+    margin-top: 370px !important;
+  }
+  .contatcs-info-section .text-block h1 {
+    font-size: 55px;
+    line-height: normal;
+  }
+  .contatcs-info-section .text-block h2 {
+    font-size: 26px;
+  }
+  .services-info-section .text-block h1 {
+    font-size: 35px;
+  }
+  .tax-group h1 {
+    line-height: normal;
+    font-size: 35px;
+  }
+  main .services-form {
+    margin-top: 100px;
+  }
+  .staff-section #case-slider .slick-arrow {
+    top: 27% !important;
+  }
+  .staff-section #case-slider .slick-next {
+    right: -30px !important;
+  }
+  .staff-section #case-slider .slick-prev {
+    left: -30px !important;
+  }
+  .case-example-section .case-example {
+    margin-top: 350px;
+  }
+  .team-slider .back-text {
+    top: -25px !important;
+  }
+  .staff .back-text {
+    top: -25px !important;
+  }
+  .clients-section .back-text {
+    left: 0%;
+  }
+  .owners button {
+    padding: 20px;
+  }
+  .owners .owner-card {
+    width: 100%;
+    height: 120vw;
+  }
+  .owners .owner-card .wrapper .text-block img {
+    top: -20px;
+    width: 40px;
+  }
+  .staff-section .team-slider .member .wrapper h1 {
+    font-size: 24px;
+  }
+  .staff-section .team-slider .member .wrapper p {
+    font-size: 18px;
+  }
+  .staff-section .slick-arrow {
+    bottom: -150px;
+  }
+  .staff-section .slick-next {
+    right: 30% !important;
+  }
+  .staff-section .slick-prev {
+    right: auto !important;
+    left: 30% !important;
+  }
+  .staff-section .slick-dots {
+    bottom: -30px;
+  }
+  .about-info-section .circle-header h1 {
+    margin-left: -20px;
+    top: 100px;
+    width: -moz-max-content;
+    width: max-content;
+  }
+  .top-info .text-block {
+    margin-top: 300px;
+  }
+  .circle-header {
+    min-width: 350px;
+    min-height: 350px;
+  }
+  .circle-header h1 {
+    font-size: 40px;
+    margin-left: 0px;
+  }
+  .posts-section .container .post {
+    width: 100%;
+  }
+  .posts-section .container .post .post-image {
+    height: 80vw;
+    max-height: 100%;
+  }
+  .posts-section .container .post .post-image .post-wrapper h1 {
+    font-size: 26px;
+    position: absolute;
+    bottom: 0px;
+  }
+  .header-text button, .home-page .care-section .container .care-text-block button {
+    height: 60px;
+  }
+  .mob-nav li a {
+    font-size: 22px !important;
+  }
+  .mob-nav h2 {
+    font-size: 18px;
+  }
+  .mob-nav a {
+    font-size: 16px !important;
+  }
+  .mob-nav .adress p {
+    font-size: 16px !important;
+  }
+  .footer-form .text-block {
+    text-align: center;
+  }
+  .footer-form .text-block h1 {
+    font-size: 30px;
+  }
+  .footer-form .text-block button {
+    padding: 10px 10px;
+  }
+  .main-form-section .container .modal h3 .circle {
+    left: -50px;
+  }
+  .main-form-section .container .row .left-col {
+    width: 100%;
+  }
+  .main-form-section .back-text {
+    top: 100px !important;
+  }
+  .home-page .our-transport-section {
+    margin: 200px 0 70px 0;
+  }
+  .home-page .our-transport-section .transport-types .transport .circle {
+    top: -30vw;
+    height: 60vw;
+  }
+  .home-page .our-transport-section .transport-types .transport .circle img {
+    width: 70%;
+  }
+  .home-page .our-transport-section .transport-types .transport .circle h1 {
+    font-weight: 900;
+    color: white;
+    top: 10px;
+    font-size: 60px !important;
+  }
+  .home-page .why-we-section .advantages .advantage {
+    width: 100% !important;
+  }
+  .case-example-section .back-text {
+    top: -120px;
+  }
+  .back-text {
+    font-size: 18vw;
+  }
+  .home-page .transportation-section .container .transportation-ways .way .wrapper h2 {
+    font-size: 14px;
+  }
+  .home-page .pick-up-car-section .line .truck-modal {
+    width: 90%;
+  }
+  .home-page .care-section .container .care-text-block button {
+    font-size: 20px !important;
+  }
+  .home-page .care-section .container .care-text-block button img {
+    width: 6% !important;
+  }
+  .main-red-btn {
+    width: 100% !important;
+    font-size: 22px !important;
+  }
+  .main-red-btn img {
+    margin-left: 10px;
+    width: 8% !important;
+  }
+  .header-text {
+    text-align: center;
+  }
+  .header-text h1 {
+    font-size: 40px;
+    line-height: normal;
+  }
+  .header-text p {
+    font-size: 24px;
+    color: black;
+    font-weight: 400;
+  }
+  .header-text h2 {
+    font-size: 21px;
+  }
+  .header-text h3 {
+    font-size: 22px;
+  }
+  .header-text h3 hr {
+    display: none;
+  }
+  .header-text button {
+    font-size: 22px;
+  }
+  .header-text button img {
+    width: 8%;
+  }
+}
+@media (max-width: 475px) {
+  .owners .owner-card {
+    min-height: 570px;
+  }
+  .owners .owner-card .wrapper .links {
+    margin-top: 0px !important;
+    flex-direction: column;
+  }
+  .owners .owner-card .wrapper .links a {
+    margin-top: 10px;
+  }
+  .owners .owner-card .wrapper .text-block p {
+    font-size: 16px;
+  }
+}
+@media (max-height: 750px) {
+  .header-section {
+    margin-top: 70px;
+  }
+  .header-text h3 {
+    font-size: 18px;
+    margin-top: 20px;
+    margin-top: 25px;
+  }
+}
+@media (max-height: 620px) {
+  .header-text h1 {
+    font-size: 30px;
+  }
+  .header-text h2 {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+}/*# sourceMappingURL=media.css.map */

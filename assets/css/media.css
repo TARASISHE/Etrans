@@ -159,6 +159,10 @@
   }
 }
 @media (max-width: 1280px) {
+  .why-we-section .back-text {
+    top: -160px;
+    font-size: 12vw;
+  }
   header .logo .svg {
     width: 100px;
   }
@@ -339,7 +343,7 @@
     top: 40%;
   }
   .our-transport-section .back-text {
-    font-size: 10vw;
+    font-size: 9vw;
     top: -100px;
     left: -5vw;
   }
@@ -372,6 +376,37 @@
   }
 }
 @media (max-width: 1040px) {
+  .about-info-section .circle-header h1 {
+    font-size: 45px;
+  }
+  back-text {
+    display: block;
+  }
+  .care-section .back-text {
+    color: rgba(145, 143, 143, 0.9);
+    left: 380px;
+    top: -20px;
+  }
+  .why-we-section .back-text {
+    top: -110px;
+    font-size: 12vw;
+  }
+  .our-transport-section .back-text {
+    font-size: 9vw;
+  }
+  .home-page .why-we-section {
+    margin-top: 200px;
+  }
+  .home-page .transportation-section .container .transportation-ways .way {
+    height: 40vw;
+    width: 80%;
+  }
+  .trust-section .container .documents {
+    margin-left: 200px;
+  }
+  .home-page .trust-section .container {
+    align-items: start;
+  }
   .home-page .why-we-section .advantages {
     padding-top: 0px;
   }
@@ -459,7 +494,7 @@
     margin-top: 30px;
   }
   .home-page .our-transport-section .transport-types .transport {
-    margin-top: 150px !important;
+    margin-top: 180px !important;
     width: 48%;
   }
   .home-page .our-transport-section .transport-types .transport .circle {
@@ -526,6 +561,40 @@
   }
 }
 @media (max-width: 992px) {
+  .staff {
+    margin-top: 150px;
+  }
+  .clients-section {
+    margin-top: 100px;
+  }
+  .dill-section {
+    margin-top: 100px;
+  }
+  .footer-form {
+    margin: 100px auto 0 auto;
+  }
+  .how-we-work-slider img {
+    width: 100%;
+  }
+  .tax-group {
+    margin-top: 50px;
+  }
+  .services-links {
+    margin-top: 50px;
+  }
+  .home-page .transportation-section .container .transportation-ways .way {
+    height: 40vw;
+    width: 80%;
+  }
+  .back-text {
+    display: none;
+  }
+  .trust-section .container .documents {
+    margin-left: 150px;
+  }
+  .home-page .trust-section .container {
+    align-items: start;
+  }
   .main-form-section.home-form.long-form {
     height: 1700px;
   }
@@ -557,7 +626,7 @@
   }
   header .container .logo svg {
     margin: 0px;
-    height: 40px;
+    height: 70px;
   }
   .about-info-section .text-block {
     width: 50%;
@@ -669,6 +738,31 @@
   }
 }
 @media (max-width: 890px) {
+  .footer-form {
+    margin: 100px auto 0 auto;
+  }
+  .how-we-work-slider img {
+    width: 100%;
+  }
+  .tax-group {
+    margin-top: 50px;
+  }
+  .services-links {
+    margin-top: 50px;
+  }
+  .back-text {
+    display: none;
+  }
+  .trust-section .container .documents {
+    margin-left: 150px;
+  }
+  .home-page .trust-section .container {
+    align-items: start;
+  }
+  .home-page .transportation-section .container .transportation-ways .way {
+    height: 40vw;
+    width: 80%;
+  }
   header .logo .svg {
     height: 80px;
     width: 120px;
@@ -743,6 +837,19 @@
   }
 }
 @media (max-width: 768px) {
+  .trust-section .container .documents {
+    margin-left: 100px;
+  }
+  .home-page .trust-section .container {
+    align-items: start;
+  }
+  .h1 {
+    line-height: 60px !important;
+    font-size: 50px !important;
+  }
+  .h2 {
+    font-size: 30px !important;
+  }
   .img-wrapper .white-back {
     background-color: rgba(255, 255, 255, 0.8) !important;
   }
@@ -1117,8 +1224,8 @@
     margin-top: 150px;
   }
   .home-page .transportation-section .container .transportation-ways .way {
-    width: 48%;
-    height: 27vw;
+    width: 80%;
+    height: 35vw;
   }
   .home-page .pick-up-car-section .line .truck-modal .truck {
     width: 80%;
@@ -1127,7 +1234,7 @@
     width: 50%;
   }
   .home-page .trust-section {
-    margin-top: 100px;
+    margin-top: 20px;
   }
   .home-page .care-section {
     margin-top: 100px;
@@ -1151,18 +1258,112 @@
     width: 100%;
   }
 }
-@media (max-width: 576px) {
-  .header-text p {
+@media (max-height: 750px) {
+  main .services-form {
+    margin-top: 50px;
+  }
+  .services-info-section .circle-header h1 {
+    font-size: 45px;
+  }
+  .h1 {
+    line-height: 50px !important;
+    font-size: 40px !important;
+  }
+  .h2 {
+    font-size: 25px !important;
+  }
+  .home-page .our-transport-section .transport-types .transport .circle {
+    top: -12vw;
+  }
+  .home-page .our-transport-section .transport-types .transport .circle {
+    height: 33vw;
+  }
+  .header-section {
+    margin-top: 70px;
+  }
+  .header-text h3 {
+    font-size: 18px;
     margin-top: 20px;
+    margin-top: 25px;
+  }
+}
+@media (max-height: 620px) {
+  main .services-form {
+    margin-top: 50px;
+  }
+  .services-info-section .circle-header h1 {
+    font-size: 45px;
+  }
+  .services-info-section .circle-header h1 {
+    font-size: 35px;
+  }
+  .h1 {
+    line-height: 50px !important;
+    font-size: 40px !important;
+  }
+  .h2 {
+    font-size: 25px !important;
+  }
+  .header-text h1 {
+    font-size: 30px;
+    line-height: 50px;
+  }
+  .header-text h2 {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+}
+@media (max-width: 576px) {
+  .services-info-section .circle-header h1 {
+    font-size: 35px;
+  }
+  .services-links {
+    margin-top: 50px;
+  }
+  .tax-group h1 {
+    margin-top: 50px;
+  }
+  .wrapper .h1 {
+    padding-left: 0px;
+  }
+  .services-info-section .circle-header h1 {
+    font-size: 35px;
+  }
+  .wrapper .h1 {
+    width: 350px !important;
+  }
+  .transport .circle .h1 {
+    top: 15px !important;
+  }
+  .home-page .transportation-section .container .transportation-ways {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .home-page .transportation-section .container .transportation-ways .way {
+    width: 80%;
+    height: 30vh;
+  }
+  .h1 {
+    line-height: 50px !important;
+    font-size: 40px !important;
+  }
+  .h2 {
+    font-size: 25px !important;
+  }
+  .header-text .h2 {
+    margin-top: 0px;
+  }
+  .header-text p {
+    margin-top: 40px;
   }
   .home-page .care-section .container .care-text-block {
     margin-top: 0px;
   }
   .header-section {
     height: calc(100vh - 120px);
-  }
-  .care-section {
-    margin-top: 0px !important;
   }
   .img-wrapper {
     max-height: 100vh;
@@ -1174,6 +1375,7 @@
   }
   .trust-section .container .documents {
     width: 100%;
+    margin-top: 100px;
   }
   .menu-tax-list li {
     margin-right: 20px !important;
@@ -1507,8 +1709,9 @@
     margin: 200px 0 70px 0;
   }
   .home-page .our-transport-section .transport-types .transport .circle {
-    top: -30vw;
-    height: 60vw;
+    top: -90px;
+    height: 50vw;
+    width: 73%;
   }
   .home-page .our-transport-section .transport-types .transport .circle img {
     width: 70%;
@@ -1550,6 +1753,7 @@
   }
   .header-text {
     text-align: center;
+    margin-top: 0px;
   }
   .header-text h1 {
     font-size: 40px;
@@ -1577,6 +1781,102 @@
   }
 }
 @media (max-width: 475px) {
+  main .about-info-section .text-block h1 {
+    font-size: 33px;
+  }
+  .about-info-section .circle-header h1 {
+    font-size: 35px;
+  }
+  .services-info-section .circle-header h1 {
+    font-size: 35px;
+  }
+  .services-links .tax-group .row .col h2 {
+    padding: 0 5px;
+  }
+  .services-links .tax-group .row .col h2 {
+    font-size: 22px;
+    max-width: 370px;
+  }
+  .services-links {
+    margin-top: 50px;
+  }
+  .tax-group h1 {
+    margin-top: 50px;
+  }
+  .wrapper .h1 {
+    padding-left: 0px;
+  }
+  .services-info-section .circle-header h1 {
+    font-size: 35px;
+  }
+  .home-page .our-transport-section .transport-types .transport .circle {
+    height: 50vw;
+  }
+  .home-page .our-transport-section .transport-types .transport .circle {
+    top: -25vw;
+  }
+  .our-transport-section .h1 {
+    max-width: 330px !important;
+  }
+  .main-form-section .container .right-col .h3 {
+    font-size: 20px !important;
+  }
+  .main-form-section .container .right-col .h2 {
+    max-width: 350px !important;
+  }
+  .main-form-section .container .modal .h3 .circle {
+    top: -15px !important;
+    left: -45px !important;
+  }
+  .slick-arrow::before {
+    font-size: 50px !important;
+  }
+  .info-section h2 {
+    margin-top: 20px;
+  }
+  .info-section {
+    margin-top: 0px;
+  }
+  .main-form-section .container .row .right-col {
+    margin-top: 50px;
+  }
+  .main-form-section .container .h1 {
+    max-width: 375px !important;
+    margin-top: 0px !important;
+  }
+  .home-page .why-we-section .advantages .advantage {
+    padding: 0px 0px 0px;
+  }
+  .home-page .why-we-section .text-block .wrapper .h1::before {
+    top: 20px !important;
+  }
+  .home-page .why-we-section {
+    margin-top: 50px;
+  }
+  .home-page .transportation-section {
+    margin-top: 250px;
+  }
+  .home-page .transportation-section .container .transportation-ways {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .home-page .transportation-section .container .transportation-ways .way {
+    width: 80%;
+    height: 30vh;
+  }
+  .h1 {
+    line-height: 50px !important;
+    font-size: 30px !important;
+  }
+  .h2 {
+    font-size: 20px !important;
+  }
+  .header-text button {
+    margin-bottom: 60px !important;
+  }
   .owners .owner-card {
     min-height: 570px;
   }
@@ -1589,24 +1889,5 @@
   }
   .owners .owner-card .wrapper .text-block p {
     font-size: 16px;
-  }
-}
-@media (max-height: 750px) {
-  .header-section {
-    margin-top: 70px;
-  }
-  .header-text h3 {
-    font-size: 18px;
-    margin-top: 20px;
-    margin-top: 25px;
-  }
-}
-@media (max-height: 620px) {
-  .header-text h1 {
-    font-size: 30px;
-  }
-  .header-text h2 {
-    font-size: 18px;
-    margin-top: 20px;
   }
 }/*# sourceMappingURL=media.css.map */

@@ -607,7 +607,7 @@ header nav ul li a:hover {
   height: 55px;
 }
 .home-page .our-transport-section .transport-types .transport .btn-row {
-  margin-top: 20px;
+  margin-top: 50px;
   height: 55px;
 }
 .home-page .our-transport-section .transport-types .transport button {
@@ -1745,7 +1745,7 @@ header nav ul li a:hover {
   background: linear-gradient(180deg, rgba(18, 44, 61, 0.6) 0%, rgba(42, 89, 118, 0.6) 70.62%, rgba(52, 110, 147, 0.6) 100%);
 }
 .main-form-section .back-text {
-  top: 0 !important;
+  top: 0;
   z-index: 0;
   white-space: nowrap;
   left: 2%;
@@ -2582,7 +2582,7 @@ main .services-form .wrapper .container .right-col {
 
 header .logo .svg {
   width: 150px;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 .site-footer .container .logo {

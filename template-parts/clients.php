@@ -8,7 +8,7 @@
 		$clients = carbon_get_theme_option('clients-complex');
 		foreach($clients as $client){
 			?>
-				<img src="<?php echo wp_get_attachment_image_url($client['image'], 'full',) ?>" alt="">
+				<img src="<?php echo wp_get_attachment_image_url($client['image'], 'full') ?>" alt="">
 			<?php
 		}
 		?>
